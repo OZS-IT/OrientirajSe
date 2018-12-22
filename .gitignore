@@ -4,6 +4,8 @@
 scripts
 *.sketch
 design/
+*.apk
+*.ipa
 
 # Xcode
 #
